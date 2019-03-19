@@ -1,0 +1,64 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated directly or indirectly from an entry in the 
+# Cambridge Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting from 
+# the CCDC's data processing and validation procedures. Files generated from 
+# CSD entries are Copyright 2012 Cambridge Crystallographic Data Centre. They 
+# may be used in bona fide research applications only, and may not be copied or 
+# further disseminated in any form, whether machine-readable or not, except for 
+# the purposes of generating routine backup copies on your local computer 
+# system.
+# 
+# Files arising from any other source may also contain material that is the 
+# copyright of third parties, including the originator, and you should check 
+# with the originator concerning the permitted uses of the information 
+# contained in this CIF.
+#
+# For further information on the CCDC and the free tools enCIFer and Mercury
+# for validating and visualising CIF files, please visit www.ccdc.cam.ac.uk
+#
+#######################################################################
+
+data_NAPHTA
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/a'
+_symmetry_Int_Tables_number      14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 1/2-x,1/2+y,-z
+3 -x,-y,-z
+4 1/2+x,1/2-y,z
+_cell_length_a                   8.235(5)
+_cell_length_b                   6.003(10)
+_cell_length_c                   8.658(10)
+_cell_angle_alpha                90
+_cell_angle_beta                 122.92(8)
+_cell_angle_gamma                90
+_cell_volume                     359.281
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1 C 0.08690 0.01530 0.32500
+C2 C 0.11330 0.16000 0.21860
+C3 C 0.04750 0.10170 0.03440
+C4 C 0.07440 0.24690 -0.07920
+C5 C -0.01000 -0.18670 0.25360
+C3B C -0.04750 -0.10170 -0.03440
+C5B C 0.01000 0.18670 -0.25360
+C4B C -0.07440 -0.24690 0.07920
+C2B C -0.11330 -0.16000 -0.21860
+C1B C -0.08690 -0.01530 -0.32500
+
+#END
